@@ -1,12 +1,7 @@
-import { StyleSheet, Text, View } from 'react-native'
-import React from 'react'
+import React from 'react';
+import './gesture-handler';
+import MainNavigator from './navigator';
 
 export default function App() {
-  return (
-    <View>
-      <Text>App</Text>
-    </View>
-  )
+  return <MainNavigator />;
 }
-
-const styles = StyleSheet.create({})

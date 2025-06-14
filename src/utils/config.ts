@@ -1,0 +1,5 @@
+const config = {
+  API_BASE_URL: 'https://api.themoviedb.org/3/movie',
+  API_BEARER_TOKEN:
+    'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5ZGM1NDAwNTU4YzVlMzVmMWE2MzllNTdlZGZlODI0MCIsIm5iZiI6MTYyNjcxNTk4MC4xODMsInN1YiI6IjYwZjViNzRjMzNhNTMzMDAyZDFhOTM2ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ko50FWYVKOzHRhKfEH0fIn3-MRN9jQbNBwo37X1BTkg',
+};
